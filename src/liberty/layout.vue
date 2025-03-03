@@ -3,7 +3,7 @@
 		<h1>layout</h1>
 		<nuxt-link to="/">home</nuxt-link>
 		<nuxt-link to="/about">about</nuxt-link>
-		<slot />
+		<nuxt />
 	</div>
 </template>
 
