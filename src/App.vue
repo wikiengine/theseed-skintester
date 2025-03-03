@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<nuxt />
+		<slot />
 	</Layout>
 </template>
 <script setup>
