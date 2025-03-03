@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-	  <nuxt />
+		<nuxt />
 	</Layout>
 </template>
 <script setup>
