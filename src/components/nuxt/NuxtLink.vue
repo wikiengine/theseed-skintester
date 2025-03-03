@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <router-link :to="to" active-class="" exact-active-class="" aria-current="false">
+  <router-link :to="to" active-class="" exact-active-class="">
     <slot />
   </router-link>
 </template>
